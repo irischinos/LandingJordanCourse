@@ -1,6 +1,6 @@
-# LandingJordanCourse
+# LandingJordanCourse #courseInSpanish :)
 
-Project of a Jordan Course Home Page on Udemy
+Project of a Jordan Course (landing page) on Udemy
 
 * Animations without using a framework
 * Modern landing page (HTML5, CSS3 & javaScript)
